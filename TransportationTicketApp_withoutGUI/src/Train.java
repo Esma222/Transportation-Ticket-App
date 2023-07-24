@@ -27,7 +27,7 @@ public class Train implements Vehicle {
 	}
 
 	public void refund(Customer customer) {
-		 for(int i=0;i<seatStatus.length;i++) { //old chosen seat number deleted.
+		 for(int i=0;i<seatStatus.length;i++) { // old chosen seat number deleted.
   		   if(seatStatus[i] != null && seatStatus[i] == customer) {
   			   seatStatus[i] = null;
   			   System.out.println("Ticket deleted and price refund.");
