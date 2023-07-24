@@ -1,4 +1,4 @@
-Pegasus,true,true,true,pegasus@gmail.com,peg
+Pegasus,true,true,true,pegasus@gmail.com,pegasus
 Turkish Airlines,true,false,true,thy@gmail.com,thy
 Metro Turizm,false,true,true,MetroTurizm@gmail.com,met
 TCDD,true,true,true,tcdd@gmail.com,tcd
